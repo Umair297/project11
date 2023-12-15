@@ -1,0 +1,27 @@
+#box{
+    margin-top: 3rem;
+    border:1px solid rgb(211, 177, 65);
+    border-radius:25px ;
+    width:60%;
+    margin: auto;
+    color: black;
+    text-align: center;
+    background-color: rgba(212, 187, 41, 0.253);
+}
+h1{
+font-size: 40px;
+}
+p{
+    font-size: 20px;
+    line-height: 30px;
+    padding-left: 0.8rem;
+    padding-right: 0.8rem;
+}
+button{
+    width: 15%;
+    font-size: 17px;
+    background-color: rgb(113, 225, 233);
+    margin-bottom: 1.5rem;
+    padding-top: 3px;
+    border-radius: 20px;
+}
